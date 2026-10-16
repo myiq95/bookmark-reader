@@ -1,1 +1,14 @@
-{"name":"책갈피 — 나만의 서재","short_name":"책갈피","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f7f4ee","theme_color":"#f7f4ee","description":"읽던 곳에서 다시 시작하는 개인 독서 앱","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "책갈피 리더 — 나만의 서재",
+  "short_name": "책갈피",
+  "description": "읽던 곳에서 이어 읽는 개인 독서 공간",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ee",
+  "theme_color": "#526b58",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
